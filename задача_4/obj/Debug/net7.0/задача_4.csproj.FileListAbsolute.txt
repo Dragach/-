@@ -1,0 +1,15 @@
+/Users/dragach/geekbrains/кодинг/ДЗ/задача_4/bin/Debug/net7.0/задача_4
+/Users/dragach/geekbrains/кодинг/ДЗ/задача_4/bin/Debug/net7.0/задача_4.deps.json
+/Users/dragach/geekbrains/кодинг/ДЗ/задача_4/bin/Debug/net7.0/задача_4.runtimeconfig.json
+/Users/dragach/geekbrains/кодинг/ДЗ/задача_4/bin/Debug/net7.0/задача_4.dll
+/Users/dragach/geekbrains/кодинг/ДЗ/задача_4/bin/Debug/net7.0/задача_4.pdb
+/Users/dragach/geekbrains/кодинг/ДЗ/задача_4/obj/Debug/net7.0/задача_4.csproj.AssemblyReference.cache
+/Users/dragach/geekbrains/кодинг/ДЗ/задача_4/obj/Debug/net7.0/задача_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dragach/geekbrains/кодинг/ДЗ/задача_4/obj/Debug/net7.0/задача_4.AssemblyInfoInputs.cache
+/Users/dragach/geekbrains/кодинг/ДЗ/задача_4/obj/Debug/net7.0/задача_4.AssemblyInfo.cs
+/Users/dragach/geekbrains/кодинг/ДЗ/задача_4/obj/Debug/net7.0/задача_4.csproj.CoreCompileInputs.cache
+/Users/dragach/geekbrains/кодинг/ДЗ/задача_4/obj/Debug/net7.0/задача_4.dll
+/Users/dragach/geekbrains/кодинг/ДЗ/задача_4/obj/Debug/net7.0/refint/задача_4.dll
+/Users/dragach/geekbrains/кодинг/ДЗ/задача_4/obj/Debug/net7.0/задача_4.pdb
+/Users/dragach/geekbrains/кодинг/ДЗ/задача_4/obj/Debug/net7.0/задача_4.genruntimeconfig.cache
+/Users/dragach/geekbrains/кодинг/ДЗ/задача_4/obj/Debug/net7.0/ref/задача_4.dll
