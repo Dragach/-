@@ -1,0 +1,15 @@
+/Users/dragach/geekbrains/кодинг/ДЗ/задача 13/bin/Debug/net7.0/задача 13
+/Users/dragach/geekbrains/кодинг/ДЗ/задача 13/bin/Debug/net7.0/задача 13.deps.json
+/Users/dragach/geekbrains/кодинг/ДЗ/задача 13/bin/Debug/net7.0/задача 13.runtimeconfig.json
+/Users/dragach/geekbrains/кодинг/ДЗ/задача 13/bin/Debug/net7.0/задача 13.dll
+/Users/dragach/geekbrains/кодинг/ДЗ/задача 13/bin/Debug/net7.0/задача 13.pdb
+/Users/dragach/geekbrains/кодинг/ДЗ/задача 13/obj/Debug/net7.0/задача 13.csproj.AssemblyReference.cache
+/Users/dragach/geekbrains/кодинг/ДЗ/задача 13/obj/Debug/net7.0/задача 13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dragach/geekbrains/кодинг/ДЗ/задача 13/obj/Debug/net7.0/задача 13.AssemblyInfoInputs.cache
+/Users/dragach/geekbrains/кодинг/ДЗ/задача 13/obj/Debug/net7.0/задача 13.AssemblyInfo.cs
+/Users/dragach/geekbrains/кодинг/ДЗ/задача 13/obj/Debug/net7.0/задача 13.csproj.CoreCompileInputs.cache
+/Users/dragach/geekbrains/кодинг/ДЗ/задача 13/obj/Debug/net7.0/задача 13.dll
+/Users/dragach/geekbrains/кодинг/ДЗ/задача 13/obj/Debug/net7.0/refint/задача 13.dll
+/Users/dragach/geekbrains/кодинг/ДЗ/задача 13/obj/Debug/net7.0/задача 13.pdb
+/Users/dragach/geekbrains/кодинг/ДЗ/задача 13/obj/Debug/net7.0/задача 13.genruntimeconfig.cache
+/Users/dragach/geekbrains/кодинг/ДЗ/задача 13/obj/Debug/net7.0/ref/задача 13.dll
