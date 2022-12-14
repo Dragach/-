@@ -33,7 +33,7 @@ int result = 0;
 while ( i < size )
 {
     result = array[i] + result;
-    i++;
+    i = i+2;
 }
 Console.WriteLine("Cумма всех элементов массива с нечетным индексом:");
 Console.WriteLine(result);
