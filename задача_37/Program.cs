@@ -1,11 +1,11 @@
-﻿//функция которая заполняет массив рандомными числами от 1 до 10
+﻿//функция которая заполняет массив рандомными числами от 1 до 40
 void FillArray(int[] collection)
 {
     int lenght = collection.Length;
     int index = 0;
     while ( index < lenght )
     {
-        collection[index] = new Random().Next ( 1, 11 );
+        collection[index] = new Random().Next ( 1, 41 );
         index++;
     }
 }
@@ -25,14 +25,20 @@ int divup(int x, int y)
 {
     return (x + y - 1 ) / y;
 }
-int[] array = new int[10];
 
+//Создается массив случайного размера от 3-х до 20-ти
+int b = new Random().Next ( 3, 21 );
+Console.Write("Размер исходного массива:");
+Console.WriteLine(b);
+int[] array = new int[b];
+
+//Вычисляется размер массива для результата
 int a = divup (array.Length, 2);
-
 int[] rarray = new int[a];
 
+//Исходный массив заполняется случайными числами от 1 до 40
 FillArray(array);
-Console.WriteLine("Исходный массив");
+Console.WriteLine("Исходный массив:");
 PrintArray(array);
 
 int size = array.Length-1;
