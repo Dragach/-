@@ -1,4 +1,5 @@
-﻿int[] GetArray (string sArray)
+﻿//функция получения массива от пользователя не считывая пустые элементы
+int[] GetArray (string sArray)
 {
     string[] i = sArray.Split(' ', StringSplitOptions.RemoveEmptyEntries);
     int[] result = new int[i.Length];
@@ -8,7 +9,7 @@
     }
     return result;
 }
-
+//функция подсчета положительных элементов массива
 int Elements(int[] a)
 {
     int c = 0;
