@@ -15,8 +15,11 @@ int wichColumn = int.Parse(Console.ReadLine()!);
 int LR = array.GetLength(0);
 int LC = array.GetLength(1);
 
+PrintArray(array);
+
 if (wichRow<LR & wichColumn<LC)
 {
+    Console.WriteLine("Запрашеваемый элемент: ");
     Console.WriteLine(array[wichRow, wichColumn]);
 }
 else
@@ -34,4 +37,13 @@ int[,] GetArray(int m, int n, int minValue, int maxValue){
         }
     }
     return result;
+}
+//функция вывода массива
+void PrintArray(int[,]array){
+    for(int i=0;i<array.GetLength(0); i++){
+        for(int j=0;j<array.GetLength(1);j++){
+            Console.Write($"{array[i,j]} ");
+        }
+        Console.WriteLine();
+    }
 }
